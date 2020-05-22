@@ -1,2 +1,1 @@
-# master-system
-SEGA Master System development
+# SEGA Master System development
